@@ -1,2 +1,4 @@
-# python-Matplotlib-Cpu__Plotting
-Python Matplotlib-Realtime_Cpu_Plotting
+#Python-Matplotlib-Cpu__Plotting
+#Python_Matplotlib-Realtime_Cpu_Plotting
+
+Run the MAIN.py
